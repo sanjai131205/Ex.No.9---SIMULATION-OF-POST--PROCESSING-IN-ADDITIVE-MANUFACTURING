@@ -48,8 +48,8 @@
 ![image](https://github.com/priyadharshini225/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849213/476e736e-da5c-4b23-b1e2-4e96eae06c08)
 
 
-### Name:PRIYADHARSHINI S
-### Register Number:212223240129
+### Name:sanjai
+### Register Number:24901269
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
